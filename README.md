@@ -13,4 +13,4 @@ Other experiences:
 
 - College: C, R, .Lua on Love2D
 - Personal studies: C#, Godot, .Lua for modding, Javascript/Node.JS
-- Out coding: Video edition (Sony Vegas)
+- Out coding: Video edition (Sony Vegas) and a little bit of image editing
