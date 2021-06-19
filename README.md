@@ -5,7 +5,7 @@
 ![Python image](python.png)
 
 - 🔭 I’m currently working on Android (Java) for scientific research, Php fullstack for university extension project and Python for personal projects
-- 🌱 I’m currently learning Python with Streamlit, React, machine learning
+- 🌱 I’m currently learning Python with Streamlit, machine learning, Django
 - 👯 I’m looking to collaborate on Web/Python projects
 - 🤔 I’m looking for help with React.js
 
