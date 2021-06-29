@@ -23,3 +23,4 @@ Other experiences:
 </a>
 </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-senna-2538561b8/)] (https://www.linkedin.com/in/guilherme-senna-2538561b8/)
