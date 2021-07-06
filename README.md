@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Web/Python projects
 - 🤔 I’m looking for help with Artificial Inteligence
 
-Other experiences:
+### Other experiences:
 
 - College: Java, C, R, .Lua on Love2D, Assembly, Prolog, Solidity (blockchain)
 - Personal studies: C#, Godot, .Lua for modding, Javascript/Node.JS
