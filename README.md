@@ -2,7 +2,7 @@
 
 🇧🇷
 
-![Python image](python.png)
+<!-- ![Python image](python.png) -->
 
 - 🔭 I’m currently working on Android (Java) for scientific research, Php fullstack for university extension project and Python for personal projects
 - 🌱 I’m currently learning Python with Streamlit, machine learning, Django, React
