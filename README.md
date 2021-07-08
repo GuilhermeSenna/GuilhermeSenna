@@ -5,14 +5,14 @@
 <!-- ![Python image](python.png) -->
 
 - 🔭 I’m currently working on Android (Java) for scientific research, Php fullstack for university extension project and Python for personal projects
-- 🌱 I’m currently learning Python with Streamlit, machine learning, Django, React
+- 🌱 I’m currently learning Javascript, React, Material-UI.
 - 👯 I’m looking to collaborate on Web/Python projects
 - 🤔 I’m looking for help with Artificial Inteligence
 
 #### Other experiences:
 
 - College: Java, C, R, .Lua on Love2D, Assembly, Prolog, Solidity (blockchain)
-- Personal studies: C#, Godot, .Lua for modding, Javascript/Node.JS
+- Personal studies: Python, C#, Godot, .Lua for modding, Javascript/Node.JS
 - Out coding: Video edition (Sony Vegas) and a little bit of image editing
 
 
