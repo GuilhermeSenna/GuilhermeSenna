@@ -29,13 +29,13 @@
 > Database
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) ![Postgree](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=316192) ![Sqlite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=07405E) ![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-000000?style=logo&logo=microsoft%20sql%20server&logoColor=CC2927)
 
-> Web Fullstack
+> Web Full Stack
 ![Php](https://img.shields.io/badge/PHP-000000?style=logo&logo=php&logoColor=8892be) ![Javascript](https://img.shields.io/badge/-JavaScript-000000?style=logo&logo=javascript)
 
-> Front-end Web
+> Web Front-end
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6) ![Javascript](https://img.shields.io/badge/-JavaScript-000000?style=logo&logo=javascript) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)  ![Material-UI](https://img.shields.io/badge/Material--UI-000000?style=logo&logo=material-ui&logoColor=0081CB)
 
-> Back-end Web
+> Web Back-end
 ![Nodejs](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=339933) ![Expressjs](https://img.shields.io/badge/Express.js-000000?style=logo&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-000000?style=logo&logo=django&logoColor=092E20) ![JQuery](https://img.shields.io/badge/jQuery-000000?style=logo&logo=jquery&logoColor=0769AD)
 
 > Mobile
