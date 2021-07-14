@@ -33,10 +33,10 @@
 ![Php](https://img.shields.io/badge/PHP-000000?style=logo&logo=php&logoColor=8892be) ![Javascript](https://img.shields.io/badge/-JavaScript-000000?style=logo&logo=javascript)
 
 > Web Front-end
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6) ![Javascript](https://img.shields.io/badge/-JavaScript-000000?style=logo&logo=javascript) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)  ![Material-UI](https://img.shields.io/badge/Material--UI-000000?style=logo&logo=material-ui&logoColor=0081CB)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6) ![Javascript](https://img.shields.io/badge/-JavaScript-000000?style=logo&logo=javascript) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)  ![Material-UI](https://img.shields.io/badge/Material--UI-000000?style=logo&logo=material-ui&logoColor=0081CB) ![JQuery](https://img.shields.io/badge/jQuery-000000?style=logo&logo=jquery&logoColor=0769AD)
 
 > Web Back-end
-![Nodejs](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=339933) ![Expressjs](https://img.shields.io/badge/Express.js-000000?style=logo&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-000000?style=logo&logo=django&logoColor=092E20) ![JQuery](https://img.shields.io/badge/jQuery-000000?style=logo&logo=jquery&logoColor=0769AD)
+![Nodejs](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=339933) ![Expressjs](https://img.shields.io/badge/Express.js-000000?style=logo&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-000000?style=logo&logo=django&logoColor=092E20)
 
 > Mobile
 ![Android](https://img.shields.io/badge/Android-000000?style=&logo=android&logoColor=3DDC84)
