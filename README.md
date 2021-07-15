@@ -4,10 +4,10 @@
 
 <!-- ![Python image](python.png) -->
 
-- 🔭 I’m currently working on Android (Java) for scientific research, Php fullstack for university extension project and Python for personal projects
-- 🌱 I’m currently learning Javascript, React, Material-UI.
-- 👯 I’m looking to collaborate on Web/Python projects
-- 🤔 I’m looking for help with Artificial Inteligence
+- 🔭 I’m currently working on Android (Java) for scientific research, Php fullstack for university extension project and Python for personal projects;
+- 🌱 I’m currently learning Javascript, React, Material-UI;
+- 👯 I’m looking to collaborate on Web/Python projects;
+- 🤔 I’m looking for help with Artificial Inteligence;
 
 <!-- #### Other experiences: -->
 
