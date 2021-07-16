@@ -13,7 +13,7 @@
 
 <!-- - College: Java, C, R, .Lua on Love2D, Assembly, Prolog, Solidity (blockchain)
 - Personal studies: Python, C#, Godot, .Lua for modding, Javascript/Node.JS
-- Out coding: Video edition (Sony Vegas) and a little bit of image editing
+- Out coding: Video edition (Sony Vegas) and a little bit of image editing.
 
  -->
  
