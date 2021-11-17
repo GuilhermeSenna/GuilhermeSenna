@@ -5,7 +5,7 @@
 <!-- ![Python image](python.png) -->
 
 - 🔭 I’m currently working on PHP fullstack for university extension project and Working as web freelancer;
-- 👻 I worked on an scientific research Android (Java) Backend;
+- 👻 I worked on an scientific research w/ Android (Java) Backend;
 - 🌱 I’m currently learning Deep Learning, image processing, React;
 - 👯 I’m looking to collaborate on Web/Python projects (image processing);
 - 🤔 I’m looking for help with Artificial Inteligence;
