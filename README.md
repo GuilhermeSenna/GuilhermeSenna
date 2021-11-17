@@ -1,6 +1,6 @@
 ### Hi there / Fala aí 👋
 
-🇧🇷
+:brazil:
 
 <!-- ![Python image](python.png) -->
 
