@@ -4,9 +4,9 @@
 
 <!-- ![Python image](python.png) -->
 
-- 🔭 I’m currently working on PHP fullstack for university extension project and as web freelancer;
-- 👻 I worked on an scientific research w/ Android (Java) Backend;
-- 🌱 I’m currently learning Deep Learning, image processing, React;
+- 🔭 I’m currently working as web freelancer w/ NodeJS and ReactJS;
+- 👻 I worked on an scientific research w/ Android (Java) Backend and on college extension program as a PHP Fullstack developer;
+- 🌱 I’m currently learning ReactJS and image processing;
 - 👯 I’m looking to collaborate on Web/Python projects (or any open source project);
 - 🤔 I’m looking for help with Artificial Inteligence;
 
