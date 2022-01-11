@@ -21,7 +21,7 @@ My name is guilherme senna from Brazil, I'm a computer science student at the St
 
  -->
  
- ### 🛠 &nbsp;Tech Stack
+<!--  ### 🛠 &nbsp;Tech Stack
 *Ordered by use / knowledge*
 
 > Desktop
@@ -52,7 +52,7 @@ My name is guilherme senna from Brazil, I'm a computer science student at the St
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=logo&logo=solidity&logoColor=e6e6e6)
 
 > Others (rarely used) 
-![C#](https://img.shields.io/badge/C%23-000000?style=logo&logo=c-sharp&logoColor=239120) ![R](https://img.shields.io/badge/R-000000?style=logo&logo=r&logoColor=276DC3) ![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=logo&logo=opengl) ![React-Router](https://img.shields.io/badge/React_Router-000000?style=logo&logo=react-router&logoColor=CA4245)
+![C#](https://img.shields.io/badge/C%23-000000?style=logo&logo=c-sharp&logoColor=239120) ![R](https://img.shields.io/badge/R-000000?style=logo&logo=r&logoColor=276DC3) ![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=logo&logo=opengl) ![React-Router](https://img.shields.io/badge/React_Router-000000?style=logo&logo=react-router&logoColor=CA4245) -->
  
  
 <p align="center">
