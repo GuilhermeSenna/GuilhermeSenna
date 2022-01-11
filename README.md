@@ -1,5 +1,7 @@
 ### Hi there / Fala aí 👋
 
+My name is guilherme senna, I'm a computer science student at the State College of Santa Cruz (UESC). I like to proactively participate in projects and also to exercise my creativity in my own projects. My current focus is to specialize in WEB programming, especially frontend with ReactJS in conjunction with NodeJS. I also like to do various projects with Python.
+
 :brazil:
 
 <!-- ![Python image](python.png) -->
