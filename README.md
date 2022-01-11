@@ -2,9 +2,6 @@
 
 My name is guilherme senna from Brazil, I'm a computer science student at the State College of Santa Cruz (UESC). I like to proactively participate in projects and also to exercise my creativity in my own projects. My current focus is to specialize in WEB programming, especially frontend with ReactJS in conjunction with NodeJS. I also like to do various projects with Python.
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-senna-2538561b8/)  [![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermesenna_16@hotmail.com)
-
-
 <!-- ![Python image](python.png) -->
 
 - 🔭 I’m currently working as web freelancer w/ NodeJS and ReactJS;
@@ -61,3 +58,5 @@ My name is guilherme senna from Brazil, I'm a computer science student at the St
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeSenna&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-senna-2538561b8/)  [![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermesenna_16@hotmail.com)
