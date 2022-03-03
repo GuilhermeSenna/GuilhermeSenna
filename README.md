@@ -12,6 +12,8 @@ I'm a computer science student at the State College of Santa Cruz (UESC). I like
 - 👯 I’m looking to collaborate on Web/Python projects (or any open source project);
 - 🤔 I’m looking for help with Artificial Inteligence; -->
 
+
+
 Tools I've been working on in the last days (in NodeJS):
 - Docker
 - Redis (Caching)
