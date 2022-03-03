@@ -5,12 +5,22 @@ My name is guilherme senna, I'm from Brazil.
 I'm a computer science student at the State College of Santa Cruz (UESC). I like to proactively participate in projects and also to exercise my creativity in my own projects. My focus is to specialize in WEB programming, especially frontend with ReactJS in conjunction with NodeJS. I also like to do various projects with Python.
 
 <!-- ![Python image](python.png) -->
-
+<!-- 
 - 🔭 I’m currently working as web freelancer w/ NodeJS and ReactJS;
 - 👻 I worked on an scientific research w/ Android (Java) Backend and on college extension program as a PHP Fullstack developer;
 - 🌱 I’m currently learning ReactJS and image processing;
 - 👯 I’m looking to collaborate on Web/Python projects (or any open source project);
-- 🤔 I’m looking for help with Artificial Inteligence;
+- 🤔 I’m looking for help with Artificial Inteligence; -->
+
+Tools I've been working on in the last days (in NodeJS):
+- Docker
+- Redis (Caching)
+- Bulls (Queues in the background)
+- Pagination (Bootstrap-table)
+- Jquery
+
+
+
 
 <!-- #### Other experiences: -->
 
