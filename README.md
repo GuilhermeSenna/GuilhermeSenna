@@ -19,7 +19,6 @@ Tools I've been working on in the last days (in NodeJS):
 - Redis (Caching)
 - Bulls (Queues in the background)
 - Pagination (Bootstrap-table)
-- Jquery
 
 
 
