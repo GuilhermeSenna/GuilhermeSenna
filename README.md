@@ -2,7 +2,7 @@
 
 My name is Guilherme Senna, I'm from Brazil.
 
-I'm a bachelor in computer science at the State College of Santa Cruz (UESC). I like to proactively participate in projects and also to exercise my creativity in my own projects. My focus is to specialize in WEB programming, especially frontend with ReactJS in conjunction with NodeJS. I also like to do various projects with Python.
+<!-- I'm a bachelor in computer science at the State College of Santa Cruz (UESC). I like to proactively participate in projects and also to exercise my creativity in my own projects. My focus is to specialize in WEB programming, especially frontend with ReactJS in conjunction with NodeJS. I also like to do various projects with Python. -->
 
 <!-- ![Python image](python.png) -->
 <!-- 
@@ -12,13 +12,42 @@ I'm a bachelor in computer science at the State College of Santa Cruz (UESC). I 
 - 👯 I’m looking to collaborate on Web/Python projects (or any open source project);
 - 🤔 I’m looking for help with Artificial Inteligence; -->
 
+I'm graduated in Computer Science at the State University of Santa Cruz (UESC). 🎓
 
+Enthusiast in WEB development using Javascript/Typescript acting as Fullstack/DevOps since 2020 with advanced solutions following the RESTFUL API architecture using NodeJS (especially with ExpressJS) and creating intuitive interfaces with ReactJS/NextJS with an emphasis on UI and UX. I enjoy being part of proactive teams, as well as working on challenging projects. :computer:
 
-Tools I've been working on in the last days (in NodeJS):
-- Docker
-- Redis (Caching)
-- Bulls (Queues in the background)
-- Pagination (Bootstrap-table)
+Has advanced comprehension in English. :thinking:
+
+Professional and academic activities/experiences:
+
+- Work on blogs, real estate management (inspections and creation of contracts, rent payments, default control), management with Ecommerce, freight and toll calculation, Real-time chat with multiple users, customized PDF generation, gallery implementation (upload multiple + organization of images);
+- Creation of responsive layouts with Bootstrap and MUI;
+- Front and Backend Validation;
+- Code refactoring with Eslint, Prettier;
+- Development and deployment with Docker;
+- Deliveries focused on CI/CD;
+- Use of SOLID and Clean Code;
+- Experience with distributed systems and microservices;
+- Use of agile methodologies (SCRUM) and Kanban with Trello;
+- Documentation with Swagger;
+- Adoption of unit tests with Jest, SuperTest - Use of Mocks and Stubs;
+- Code versioning with Git/Github, adopting conventional commits and code review;
+- Advanced systems implementation: pagination, query strings, infinite scroll, push notifications, webSocket;
+- API optimizations with dynamic caching using Redis and clustering/load balancing;
+- Optimized integrations with Firebase, AWS (S3, EC2), Google maps (distance between points, routing, toll check), Autentique;
+- Wide implementation of Payment Gateways with secure configuration for the Webhook;
+- In-depth experience with SQL (MySQL, MariaDB, PostgreSQL, SQLite, SQL server) and NoSQL (MongoDB, Firebase database);
+- Use of advanced and optimized queries with 'raw queries', including triggers, cursors, indexing;
+- Use of ORM's, especially TypeORM and Prisma;
+- Login with social networks, JWT and Refresh Token;
+- Periodic backups of the database in the cloud;
+- B2B and B2C performance;
+- Experience with prototyping in AdobeXD and Figma;
+- Improved systems SEO;
+- Background Jobs with node-cron;
+- Use of queues with RabbitMQ and Bull;
+- Settings on FTP, SMTP, NGINX, Apache servers, CORS Enablement | UFW (Firewall) | HTTPS, domain pointing (registroBR);
+- Requirements elicitation and creation of use case diagrams, activity, classes in UML/Draw.io.
 
 
 
