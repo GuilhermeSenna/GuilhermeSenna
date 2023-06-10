@@ -1,4 +1,4 @@
-### Welcome 👋 ![Count views](https://komarev.com/ghpvc/?username=svvictorelias&color=blue&style=flat-square)
+### Welcome 👋 ![Count views](https://komarev.com/ghpvc/?username=GuilhermeSenna&color=blue&style=flat-square)
 
 My name is Guilherme Senna, I'm from Brazil.
 
