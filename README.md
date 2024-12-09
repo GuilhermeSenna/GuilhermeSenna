@@ -11,28 +11,20 @@ Has advanced comprehension in English. :thinking:
 Professional and academic activities/experiences:
 
 - Work on blogs, real estate management (inspections and creation of contracts, rent payments, default control), management with Ecommerce, freight and toll calculation, Real-time chat with multiple users, customized PDF generation, gallery implementation (upload multiple + organization of images);
-- Creation of responsive layouts with Bootstrap and MUI;
 - Front and Backend Validation;
-- Code refactoring with Eslint, Prettier;
 - Development and deployment with Docker;
 - Deliveries focused on CI/CD;
 - Use of SOLID and Clean Code;
 - Experience with distributed systems and microservices;
-- Use of agile methodologies (SCRUM) and Kanban with Trello;
-- Documentation with Swagger;
-- Adoption of unit tests with Jest, SuperTest - Use of Mocks and Stubs;
-- Code versioning with Git/Github, adopting conventional commits and code review;
 - Advanced systems implementation: pagination, query strings, infinite scroll, push notifications, webSocket;
 - API optimizations with dynamic caching using Redis and clustering/load balancing;
-- Optimized integrations with Firebase, AWS (S3, EC2), Google maps (distance between points, routing, toll check), Autentique;
+- Optimized integrations with Firebase, AWS (S3, EC2), Google maps (distance between points, routing), Autentique;
 - Wide implementation of Payment Gateways with secure configuration for the Webhook;
 - In-depth experience with SQL (MySQL, MariaDB, PostgreSQL, SQLite, SQL server) and NoSQL (MongoDB, Firebase database);
 - Use of advanced and optimized queries with 'raw queries', including triggers, cursors, indexing;
 - Use of ORM's, especially TypeORM and Prisma;
 - Login with social networks, JWT and Refresh Token;
-- Periodic backups of the database in the cloud;
 - B2B and B2C performance;
-- Experience with prototyping in AdobeXD and Figma;
 - Improved systems SEO;
 - Background Jobs with node-cron;
 - Use of queues with RabbitMQ and Bull;
