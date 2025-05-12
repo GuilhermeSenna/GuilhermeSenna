@@ -10,26 +10,19 @@ Has advanced comprehension in English. :thinking:
 
 Professional and academic activities/experiences:
 
-- Work on blogs, real estate management (inspections and creation of contracts, rent payments, default control), management with Ecommerce, freight and toll calculation, Real-time chat with multiple users, customized PDF generation, gallery implementation (upload multiple + organization of images);
-- Front and Backend Validation;
-- Development and deployment with Docker;
-- Deliveries focused on CI/CD;
-- Use of SOLID and Clean Code;
-- Experience with distributed systems and microservices;
-- Advanced systems implementation: pagination, query strings, infinite scroll, push notifications, webSocket;
-- API optimizations with dynamic caching using Redis and clustering/load balancing;
-- Optimized integrations with Firebase, AWS (S3, EC2), Google maps (distance between points, routing), Autentique;
-- Wide implementation of Payment Gateways with secure configuration for the Webhook;
-- In-depth experience with SQL (MySQL, MariaDB, PostgreSQL, SQLite, SQL server) and NoSQL (MongoDB, Firebase database);
-- Use of advanced and optimized queries with 'raw queries', including triggers, cursors, indexing;
-- Use of ORM's, especially TypeORM and Prisma;
-- Login with social networks, JWT and Refresh Token;
-- B2B and B2C performance;
-- Improved systems SEO;
-- Background Jobs with node-cron;
-- Use of queues with RabbitMQ and Bull;
-- Settings on FTP, SMTP, NGINX, Apache servers, CORS Enablement | UFW (Firewall) | HTTPS, domain pointing (registroBR);
-- Requirements elicitation and creation of use case diagrams, activity, classes in UML/Draw.io.
+- Fullstack development: blogs, real estate management (inspections, contracts, rent payments, default control), ecommerce, freight and toll calculation, real-time multi-user chat, custom PDF generation, and image gallery management;
+- Frontend and backend validation, Docker-based deployment, and CI/CD-focused deliveries;
+- Application of SOLID principles, Clean Code, microservices, and distributed systems;
+- Advanced features: pagination, query strings, infinite scroll, push notifications, WebSocket;
+- API optimization with dynamic caching (Redis), clustering, and load balancing;
+- Optimized integrations with Firebase, AWS (S3, EC2), Google Maps, and Autentique;
+- Secure payment gateway implementation with webhook configuration;
+- Advanced queries using SWL (raw SQL, triggers, cursors, and indexing) and NoSQL;
+-Social login, JWT, and refresh token authentication;
+- B2B and B2C performance optimization, enhanced SEO;
+- Background jobs with node-cron, queues with RabbitMQ and Bull;
+- Server configuration: FTP, SMTP, NGINX, Apache, CORS, UFW firewall, HTTPS, and DNS management (RegistroBR);
+- Requirements gathering and UML modeling (use cases, activity, class diagrams).
 
  
 <p align="center">
