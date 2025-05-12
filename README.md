@@ -18,7 +18,7 @@ Professional and academic activities/experiences:
 - Optimized integrations with Firebase, AWS (S3, EC2), Google Maps, and Autentique;
 - Secure payment gateway implementation with webhook configuration;
 - Advanced queries using SWL (raw SQL, triggers, cursors, and indexing) and NoSQL;
--Social login, JWT, and refresh token authentication;
+- Social login, JWT, and refresh token authentication;
 - B2B and B2C performance optimization, enhanced SEO;
 - Background jobs with node-cron, queues with RabbitMQ and Bull;
 - Server configuration: FTP, SMTP, NGINX, Apache, CORS, UFW firewall, HTTPS, and DNS management (RegistroBR);
